@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">o4s</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="official_sunrise_time_label">Sunrise:</string>
+    <string name="official_sunset_time_label">Sunset:</string>
+    <string name="lt">&lt;</string>
+    <string name="gt">&gt;</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="ok">OK</string>
+</resources>
